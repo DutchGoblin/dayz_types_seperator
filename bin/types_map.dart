@@ -722,7 +722,7 @@ var typesCategories = <String, String>{
   "TunaCan_Opened": "food",
   "UnknownFoodCan": "food",
   "UnknownFoodCan_Opened": "food",
-  "WaterBottle": "landnames",
+  "WaterBottle": "food",
   "WolfSteakMeat": "food",
   "Zagorky": "food",
   "ZagorkyChocolate": "food",
